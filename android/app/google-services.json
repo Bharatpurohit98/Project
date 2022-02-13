@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "969768908555",
+    "project_id": "billing-app-465fb",
+    "storage_bucket": "billing-app-465fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969768908555:android:d5098e082cbb7b30be540e",
+        "android_client_info": {
+          "package_name": "com.example.sample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "969768908555-d3ri71fg7hhu5lhthuljpo2ha7o0b3cu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sample",
+            "certificate_hash": "7b58d225cab78b822840d0eeac77d98088fcb1cf"
+          }
+        },
+        {
+          "client_id": "969768908555-o4q1642h54ft7rbdbkdttraa1rb0m330.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOicDXJxoGTMsfo23u0zrBpeNErIKEjGY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "969768908555-o4q1642h54ft7rbdbkdttraa1rb0m330.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
